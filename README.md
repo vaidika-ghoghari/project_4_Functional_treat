@@ -222,7 +222,4 @@ Some possible improvements for this project are:
 * Improve the user interface
 * Add data visualization in a future version
 
-## License
-
-This project is created for learning and educational purposes.
 
