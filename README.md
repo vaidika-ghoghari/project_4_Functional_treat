@@ -209,7 +209,7 @@ BCA Graduate | Python Learner
 
 ### Project Explanation
 
-🎥 [Watch the Project Explanation Video](YOUR_VIDEO_LINK_HERE)
+🎥 [Watch the Project Explanation Video](https://drive.google.com/file/d/1zgDFuqITcT_TVj1z1RjpRybN2-odLDQQ/view?usp=sharing)
 
 
 ## Future Improvements
